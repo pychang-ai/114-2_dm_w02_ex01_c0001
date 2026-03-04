@@ -8,4 +8,4 @@ second udpate
 3rd update
 
 # add picture
-![screenshot](image/2026-03-04 110439.png)
+![screenshot](https://github.com/pychang-ai/114-2_dm_w02_ex01_c0001/blob/main/image/2026-03-04%20110439.png)
